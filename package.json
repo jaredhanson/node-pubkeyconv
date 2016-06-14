@@ -1,6 +1,6 @@
 {
   "name": "pubkeyconv",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Convert public keys to and from PEM encoding.",
   "author": {
     "name": "Jared Hanson",
